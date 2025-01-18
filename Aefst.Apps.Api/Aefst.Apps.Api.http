@@ -1,0 +1,6 @@
+@Aefst.Apps.Api_HostAddress = http://localhost:5231
+
+GET {{Aefst.Apps.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
