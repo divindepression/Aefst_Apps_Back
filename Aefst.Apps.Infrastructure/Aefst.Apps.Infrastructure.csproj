@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Aefst.Apps.Core\Aefst.Apps.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aefst.Apps.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64faea2ec647c0a196269de982022d1c0f421316")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3b0a413aacd66d1ea7e9031d59f772bf454ba67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aefst.Apps.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aefst.Apps.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
